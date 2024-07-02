@@ -1,6 +1,5 @@
 # Hi there! I'm Esther Aiyeola 👋
 
-![Esther Aiyeola](https://your-profile-picture-url.com)
 
 🌟 Hello World! Welcome to my coding wonderland! I'm Esther, a curious and interesting lady software engineer trainee who's on a mission to bring fun and creativity into the tech world.
 
@@ -14,7 +13,7 @@ I'm currently learning and developing myself in software development, tinkering 
 
 ## My Toolbox 🛠️
 
-- **Languages:** JavaScript, Python, HTML, CSS, Java
+- **Languages:** JavaScript, Python, HTML, CSS, Java, Go
 - **Frameworks:** React.js, Node.js, Springboot, Flask, Django, Next.js
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, VS Code, Figma
