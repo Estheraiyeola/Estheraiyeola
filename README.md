@@ -9,7 +9,7 @@ I'm all about coding, design, and spreading positive vibes! When I'm not craftin
 
 ## What I Do 💻
 
-I'm currently learning and developing myself in software development, playing with code, and building cool projects that make the world a little brighter. From web apps to little IDE programs, I love flexing my coding muscles and turning ideas into reality.
+I'm currently teaching, learning and developing myself in software development, playing with code, and building cool projects that make the world a little brighter. From web apps to little IDE programs, I love flexing my coding muscles and turning ideas into reality.
 
 ## My Toolbox 🛠️
 
