@@ -1,7 +1,7 @@
 # Hi there! I'm Esther Aiyeola 👋
 
 
-🌟 Hello World! Welcome to my coding wonderland! I'm Esther, a curious and interesting lady software engineer trainee who's on a mission to bring fun and creativity into the tech world.
+🌟 Hello World! Welcome to my coding wonderland! I'm Esther, a curious and interesting lady software engineer and facilitator who's on a mission to bring fun and creativity into the tech world.
 
 ## About Me 🚀
 
@@ -9,7 +9,7 @@ I'm all about coding, design, and spreading positive vibes! When I'm not craftin
 
 ## What I Do 💻
 
-I'm currently learning and developing myself in software development, tinkering with code, and building cool projects that make the world a little brighter. From web apps to little IDE programs, I love flexing my coding muscles and turning ideas into reality.
+I'm currently learning and developing myself in software development, playing with code, and building cool projects that make the world a little brighter. From web apps to little IDE programs, I love flexing my coding muscles and turning ideas into reality.
 
 ## My Toolbox 🛠️
 
@@ -44,7 +44,7 @@ I'm currently learning and developing myself in software development, tinkering 
 ### 5. Simple Quiz Application
 - Description: A simple quiz application that allows users create cohorts, courses and quizzes.
 - Technology Used: Java, Springboot, React, Mysql
-- [Repository Link](https://github.com/Estheraiyeola/quizApplication)
+- [Repository Link](https://github.com/Estheraiyeola/authentication_server_javascript)
 
 ### 6. Authentication and Authorization Application
 - Description: A simple authenticating and authorization application 
