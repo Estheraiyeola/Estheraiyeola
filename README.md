@@ -44,12 +44,14 @@ I'm currently teaching, learning and developing myself in software development, 
 ### 5. Simple Quiz Application
 - Description: A simple quiz application that allows users create cohorts, courses and quizzes.
 - Technology Used: Java, Springboot, React, Mysql
-- [Repository Link](https://github.com/Estheraiyeola/authentication_server_javascript)
+- [Repository Link](https://github.com/Estheraiyeola/quizApplication)
+
 
 ### 6. Authentication and Authorization Application
 - Description: A simple authenticating and authorization application 
 - Technology Used: Javascript, React, JWT, MongoDB
-- [Repository Link](https://github.com/Estheraiyeola/quizApplication)
+- [Repository Link](https://github.com/Estheraiyeola/authentication_server_javascript)
+
 
 ## Let's Connect! 🌐
 
